@@ -3,3 +3,5 @@
 <img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpmc+github+img.png">
 	</a>
 </p>
+
+Real time stock visualization - fixed
